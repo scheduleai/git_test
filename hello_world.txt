@@ -1,0 +1,2 @@
+Hello Odin Project!
+Git staging and commit testing using command line.
